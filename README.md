@@ -1,7 +1,7 @@
 # ECOMMERCE
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Abhishek%20Verma-red)
 ---
-## screenshots
+## Screenshots
 ### Admin Dashboard
 ![dashboard snap](https://github.com/Abhivgreek/Shagio-Ecommerce/blob/master/static/screenshots/adminHomepage.png)
 ### Customer Homepage
