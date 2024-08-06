@@ -5,11 +5,11 @@
 ### Admin Dashboard
 ![dashboard snap](https://github.com/Abhivgreek/Shagio-Ecommerce/blob/master/static/screenshots/adminHomepage.png)
 ### Customer Homepage
-![homepage snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/customerhomepage.png?raw=true)
+![homepage snap](https://github.com/Abhivgreek/Shagio-Ecommerce/blob/master/static/screenshots/customerhomepage.png)
 ### Cart
-![cart snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/cart.png?raw=true)
+![cart snap](https://github.com/Abhivgreek/Shagio-Ecommerce/blob/master/static/screenshots/cart.png)
 ### Track Orders
-![orders snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/orderspage.png?raw=true)
+![orders snap](https://github.com/Abhivgreek/Shagio-Ecommerce/blob/master/static/screenshots/orderspage.png)
 ---
 ## FUNCTIONS
 ## Customer
